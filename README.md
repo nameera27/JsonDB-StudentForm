@@ -3,7 +3,7 @@
 
 _[Documentation Link](https://login2explore.com/jpdb/docs.html)_
 
-## **"This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations."**
+## **"This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB with CRUD operation for Student Data."**
 
 ![image](https://github.com/nameera27/JsonDB-StudentForm/assets/120706492/01cfbe60-b9f5-4a6f-943b-06022bc25cfa)
 ![image](https://github.com/nameera27/JsonDB-StudentForm/assets/120706492/edb1cf32-3d84-404d-86c4-cba77da739a6)
@@ -27,3 +27,7 @@ Schema-free, Simple to use, Nimble and In-Memory database.
 It is built on top of one of the fastest and real-time data indexing engine - PowerIndeX.
 It is low level (raw) form of data and is also human readable.
 It helps developers in faster coding, in-turn reduces development cost.
+
+### Downloads
+
+You can [download](https://netbeans.apache.org/download/nb18/) the latest installable version of NetBeans for Windows, macOS and Linux.
